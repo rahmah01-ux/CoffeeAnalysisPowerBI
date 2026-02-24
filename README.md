@@ -54,7 +54,7 @@ Implemented a structured data model
 
 Created calculated measures using DAX
 
-📐 Key DAX Measures
+### 📐 Key DAX Measures
 
 These measures are used to generate KPI indicators and visual insights within the dashboard.
 
@@ -71,7 +71,7 @@ Month and Year
 
 This allows dynamic analysis of different business segments.
 
-📌 Key Visualisations
+### 📌 Key Visualisations
 
 KPI Cards
 
@@ -93,7 +93,7 @@ Branch comparison
 
 Category performance
 
-📌 Key Visualisations
+### 📌 Key Visualisations
 
 KPI Cards
 
@@ -115,7 +115,7 @@ Branch comparison
 
 Category performance
 
-🎨 Report Design
+### 🎨 Report Design
 
 Clean and professional layout
 
@@ -125,11 +125,11 @@ Clear data labels and tooltips
 
 Interactive and user-friendly navigation
 
-🚀 Deployment
+### 🚀 Deployment
 
 The report was published to Power BI Service, enabling online access and interactive exploration of the dashboard.
 
-📊 Key Insights
+### 📊 Key Insights
 
 Identification of peak sales periods
 
@@ -139,12 +139,12 @@ Analysis of most profitable product categories
 
 Monitoring of profit trends over time
 
-📷 Dashboard Preview
+### 📷 Dashboard Preview
 
 [Download Dashboard PDF](Monday_Cafe_Dashboard.pdf)
 
 
-📚 Skills Demonstrated
+### 📚 Skills Demonstrated
 
 Data cleaning and transformation using Power Query
 
