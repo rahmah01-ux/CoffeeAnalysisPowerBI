@@ -5,6 +5,8 @@ This project presents an interactive Coffee Sales Dashboard developed using Powe
 
 The report allows users to monitor revenue, profit, and trends dynamically using interactive filters.
 
+![Executive Sales Dashboard](CafeDashboard_PowerBI.png)
+
 🎯 Objectives
 
 Analyse sales performance by branch, category, and date
