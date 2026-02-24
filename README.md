@@ -139,7 +139,7 @@ Monitoring of profit trends over time
 
 📷 Dashboard Preview
 
-
+[Download Dashboard PDF](Monday_Cafe_Dashboard.pdf)
 
 
 📚 Skills Demonstrated
