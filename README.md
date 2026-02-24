@@ -139,9 +139,9 @@ Monitoring of profit trends over time
 
 📷 Dashboard Preview
 
-Add dashboard screenshots below:
 
-![Coffee Sales Dashboard](insert-image-link-here)
+
+
 📚 Skills Demonstrated
 
 Data cleaning and transformation using Power Query
