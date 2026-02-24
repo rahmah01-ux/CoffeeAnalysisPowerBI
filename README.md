@@ -19,7 +19,7 @@ Compare performance across product categories
 
 Design a clean and interactive business intelligence report
 
-🛠 Tools & Technologies Used
+### 🛠 Tools & Technologies Used
 
 Power BI Desktop
 
@@ -29,7 +29,7 @@ DAX (Data Analysis Expressions)
 
 Power BI Service (Report Publishing and Sharing)
 
-🔄 Data Preparation
+### 🔄 Data Preparation
 Data Import
 
 The dataset was imported into Power BI Desktop for processing and analysis.
@@ -46,7 +46,7 @@ Created date hierarchy (Year and Month)
 
 Prepared data for accurate reporting and modelling
 
-📊 Data Modelling
+### 📊 Data Modelling
 
 Established relationships between tables (where applicable)
 
